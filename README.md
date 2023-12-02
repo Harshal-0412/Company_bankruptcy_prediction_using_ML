@@ -3,10 +3,10 @@ this repo has file that has 4 ML models that predict the company bankruptcy stat
 
 ## Dataset
 the dataset is taken from the kaggle 
-"Company Bankruptcy Prediction"
+### *Company Bankruptcy Prediction*
 Bankruptcy data from the Taiwan Economic Journal for the years 1999–2009
 
-this is the link "[https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction]"
+this is the link [https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction]
 
 ## language used
 Python
@@ -27,4 +27,4 @@ SVM
 | SVM                  |  97.06%            |
 
 #Kaggle link
-"[https://www.kaggle.com/code/harshal0412/company-bankruptcy-prediction-using-ml]"
+[https://www.kaggle.com/code/harshal0412/company-bankruptcy-prediction-using-ml]
